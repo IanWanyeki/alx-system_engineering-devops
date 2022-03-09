@@ -1,1 +1,1 @@
-Bash scripts to print various output
+0x01 is a  a script that prints “Hello, World” 
