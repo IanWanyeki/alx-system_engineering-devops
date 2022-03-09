@@ -1,1 +1,1 @@
-0x03 Bash scripts
+README for init files, variables and expansions
